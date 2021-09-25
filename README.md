@@ -1,7 +1,7 @@
 # blockchain-developer-bootcamp-final-project idea
 Hello guys! I am Majid, founder of PerOneX, an affiliate platform.
 I am looking for a team (back & front developer or full stack, marketing manager and a graphist) in order to do this (please use your browser built-in translator):
-https://smartcontract.coiniran.com/t/topic/675?u=majidclick
+https://t.me/PerOneXAffiliateChat/5
 
 also, for my bootcamp final project I want to do something like attrace (https://attrace.com/) to submit affiliate transaction of my platform on blockchain
 
