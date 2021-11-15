@@ -21,3 +21,19 @@ there are another two important issues which I think should be submitted on bloc
 All of other issues and part of project I think we can handle non-blockchain way
 
 Regards!
+
+currently the main pain in affiliate marketing is the ability of affiliate platform/plugin owner/runner to change the result of happened buying activities and show to the marketer that there was no successful payment or say to marketer return purchase occured ... there is no way to trust the process for marketers ... I am not a technical person so maybe there are better ways to handle trust at this case ... (maybe even liquidity pools are an option or a must in this process) but I see platforms like attrace (blockchain affiliate & refferal platform) and revain (user reviews on blockchain)
+So I really appreciate brainstorming and your technical comments in order to help me do the things I wrote in my first message in an affordable, logical and operational way ...
+
+
+Contain a README.md file which describes the project, describes the directory structure, and where the frontend project can be accessed (see #8). Please also include your public Ethereum account if you would like to receive your certification as an NFT (this is optional). 
+
+Hosted on Github Pages, Heroku, Netlify, Fleek, Surge or some other free frontend service that gives users a public interface to your decentralized application. That address should be in your README.md document.
+
+In your README.md, be sure to have clear instructions on: 
+Installing dependencies for your project 
+Accessing or—if your project needs a server (not required)—running your project
+Running your smart contract unit tests and which port a local testnet should be running on.
+Note: This section used to require three bash scripts but has been revised.
+
+A screencast of you walking through your project, including submitting transactions and seeing the updated state. You can use a screenrecorder of your choosing or something like Loom, and you can share the link to the recording in your README.md
